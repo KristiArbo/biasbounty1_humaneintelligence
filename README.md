@@ -2,7 +2,7 @@ Bias Bounty 1 Tutorial for Beginners | Humane Intelligence
 
 This repo contains my coding notebook for the tutorial series I made for the beginner level bias bounty challenge hosted by Humane Intelligence. I am an AI Ethics Fellow at Humane Intelligence.
 
-This first challenge builds on the evaluation and dataset from Humane Intelligence's Generative AI Red Teaming Challenge: https://drive.google.com/file/d/1JqpbIP6DNomkb32umLoiEPombK2-0Rc-/view . This Red Teaming Challenge sought to elicit biased and negative outputs from a variety of LLMs.
+This first challenge builds on the evaluation and dataset from Humane Intelligence's Generative AI Red Teaming Challenge: https://drive.google.com/file/d/1JqpbIP6DNomkb32umLoiEPombK2-0Rc-/view. This Red Teaming Challenge sought to elicit biased and negative outputs from a variety of LLMs.
 
 The beginner level for this bias bounty challenge had the following remit:
 Pick one of the three datasets (factuality, bias, or misdirection) Identify gaps in the data and suggest new categories of data that would make the dataset more representative. Generate five prompts per subject area that will elicit a bad outcome. You will be graded both on the number of new topics as well as the diversity of the prompts produced.
